@@ -3,7 +3,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/AMANTYA1"><img src="https://telegra.ph/file/ddedafcf0c0cc04b4a320.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/priyanshutgbot"><img src="https://telegra.ph/file/a5f79e199d8edc35b1d8c8.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
@@ -12,9 +12,9 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AMANTYA1/String_gen)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/priyanshutgbot/XTREAM-SESSION-GENERATOR)
 
-1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
+1. Tap on above button and fill ``, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
 3. After deploying is complete, tap on "Manage App"
 4. Check the logs to see if your bot is ready!
@@ -23,7 +23,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/AMANTYA1/String_gen
+   git clone https://github.com/priyanshutgbot/XTREAM-SESSION-GENERATOR
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -61,14 +61,10 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [Bot Duniya](https://t.me/BotDuniya)
+Channel :- [XTREAM UPDATES](https://t.me/XTREAMUPDATES)
 
-Group Chat :- [Group support](https://t.me/PmPermit)
+Group Chat :- [XTREAM SUPPORT](https://t.me/XTREAMSUPPORT)
 
-## :)
+## :) OWNER 
 
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/AMANTYA1/String_gen) 
-
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/AMANTYA1/String_gen)
+PRIYANSHU 👈💛
