@@ -26,4 +26,4 @@ else:
     if MUST_JOIN.startswith("@"):
         MUST_JOIN = MUST_JOIN[1:]
 
-       #✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!
+       #✗ Pᴏᴡᴇʀᴇᴅ �💛 Bʏ: XTREAM BOTS !
