@@ -18,7 +18,7 @@ If you don't trust this bot,
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: [Tᴇᴀᴍ DᴇCᴏᴅᴇ!](https://t.me/DeeCodeBots)
+✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: [XTREAM BOTS!](https://t.me/XTREAMUPDATES)
     """
 
     # Home Button
@@ -33,12 +33,12 @@ You can use me to generate pyrogram and telethon string session. Use below butto
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🎉 Start Generating Session 🎉", callback_data="generate")],
-        [InlineKeyboardButton("💕 Bot Status and More Bots 💕", url="https://t.me/DeeCodeBots/32")],
+        [InlineKeyboardButton("💕 Bot Status and More Bots 💕", url="https://t.me/XTREAMUPDATES")],
         [
             InlineKeyboardButton("How to Use 🤭❔", callback_data="help"),
             InlineKeyboardButton("😏 About 😏", callback_data="about")
         ],
-        [InlineKeyboardButton("🥱 More Amazing bots 🥱", url="https://t.me/DeeCodeBots")],
+        [InlineKeyboardButton("🥱 More Amazing bots 🥱", url="https://t.me/XTREAMUPDATES")],
     ]
 
     # Help Message
@@ -57,13 +57,13 @@ You can use me to generate pyrogram and telethon string session. Use below butto
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to Manage group and generate pyrogram and telethon string session by @TeamDeeCode
+A telegram bot to Manage group and generate pyrogram and telethon string session by @XTREAMUPDATES
 
-Source Code : [Click Here](https://github.com/AMANTYA1/String_gen)
+Source Code : [Click Here](https://github.com/priyanshutgbot/XTREAM SESSION GENERATOR)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @TeamDeeCode
+Developer : @BELONGS_TO_LORDKRISHNA
     """
