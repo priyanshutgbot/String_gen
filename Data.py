@@ -8,7 +8,7 @@ Hey {}
 
 Welcome to {}
 Bot For help You to Create Session.
-[➼](https://telegra.ph/file/e1d35e61bd7e3bef4bfc8.jpg) So What U Waiting For Generat STRING Session
+[➼](https://telegra.ph/file/5f79e199d8edc35b1d8c8.jpg) So What U Waiting For Generat STRING Session
 ───────────────────────
 
 If you don't trust this bot, 
