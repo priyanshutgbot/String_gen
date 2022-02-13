@@ -18,27 +18,27 @@ If you don't trust this bot,
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: [XTREAM BOTS!](https://t.me/XTREAMUPDATES)
+✗ Pᴏᴡᴇʀᴇᴅ �🔰 Bʏ: [XTREAM BOTS!](https://t.me/XTREAMUPDATES)
     """
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("💟 Start Generating Session 💟", callback_data="generate")],
+        [InlineKeyboardButton("💛 Start Generating Session 💛", callback_data="generate")],
     ]
 
     generate_button = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")]
+        [InlineKeyboardButton("🔰 Start Generating Session 🔰", callback_data="generate")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🎉 Start Generating Session 🎉", callback_data="generate")],
-        [InlineKeyboardButton("💕 Bot Status and More Bots 💕", url="https://t.me/XTREAMUPDATES")],
+        [InlineKeyboardButton("🎉 START GENERATING SESSION 🎉", callback_data="generate")],
+        [InlineKeyboardButton("😇 BOT STATUS AND UPDATES 😇", url="https://t.me/XTREAMUPDATES")],
         [
-            InlineKeyboardButton("How to Use 🤭❔", callback_data="help"),
-            InlineKeyboardButton("😏 About 😏", callback_data="about")
+            InlineKeyboardButton("😉HOW TO USE 😉❔", callback_data="help"),
+            InlineKeyboardButton("😎 ABOUT BOT 😎", callback_data="about")
         ],
-        [InlineKeyboardButton("🥱 More Amazing bots 🥱", url="https://t.me/XTREAMUPDATES")],
+        [InlineKeyboardButton("💖 UPDATES 💖", url="https://t.me/XTREAMUPDATES")],
     ]
 
     # Help Message
